@@ -1,4 +1,3 @@
-import React from "react";
 import { StatCard } from "../components/ui/Base";
 import { ProgressRing } from "../components/ui/ProgressRing";
 import { FocusHeatmap } from "../components/features/FocusHeatmap";

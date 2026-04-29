@@ -1,4 +1,3 @@
-import React from "react";
 import { clamp } from "../utils/time";
 
 interface FocusModeProps {

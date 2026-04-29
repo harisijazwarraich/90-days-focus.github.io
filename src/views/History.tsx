@@ -1,4 +1,3 @@
-import React from "react";
 import { FocusRingSummary } from "../components/features/FocusRingSummary";
 import { FocusHeatmap } from "../components/features/FocusHeatmap";
 import { EmptyState } from "../components/features/EmptyState";

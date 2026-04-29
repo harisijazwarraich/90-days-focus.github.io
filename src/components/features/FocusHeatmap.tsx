@@ -1,4 +1,3 @@
-import React from "react";
 import { clamp, formatDateInput, startOfDay } from "../../utils/time";
 
 export function FocusHeatmap({ sessions }: { sessions: any[] }) {

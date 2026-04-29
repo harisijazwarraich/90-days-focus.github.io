@@ -1,4 +1,3 @@
-import React from "react";
 import { clamp } from "../../utils/time";
 
 export function ProgressRing({ progress, label }: { progress: number; label: string }) {

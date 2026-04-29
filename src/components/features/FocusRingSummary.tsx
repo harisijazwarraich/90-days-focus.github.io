@@ -1,4 +1,3 @@
-import React from "react";
 import { GOAL_DAYS } from "../../constants";
 
 export function FocusRingSummary({ sessions }: { sessions: any[] }) {
